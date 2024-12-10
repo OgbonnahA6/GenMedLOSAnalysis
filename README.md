@@ -1,5 +1,7 @@
+![LengthOfStay2](https://github.com/user-attachments/assets/4e872ee3-794a-4d29-8f91-932d32570676)
 
-# Report: Efficiency Trends and Resource Utilization in General Surgery
+
+# Efficiency Trends and Resource Utilization in General Surgery
 ________________________________________
 - **1. Summary of the Trend of Patient Days for General Surgery.**
 General Surgery has demonstrated a consistent reduction in patient days over time, driven by operational improvements and clinical advancements:
